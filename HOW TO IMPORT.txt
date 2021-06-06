@@ -1,0 +1,15 @@
+Hi fellow trader,
+If you are reading this you probably downloaded this thinkorswim study, awesome here are the details.
+
+How to Set it Up? --
+1. Open thinkorswim.
+
+2. Go to Charts, click on Studies and open the panel by clicking 'Edit studies'.
+
+3. Click 'import', and navigate to the 'Crossing_MACD_IndicatorSTUDY.ts' file and click open.
+
+4. You should now have your new study just make sure to add it and apply it to your charts.
+
+Best of luck!
+
+-Eric 
