@@ -1,5 +1,5 @@
 Hi fellow trader,
-If you are reading this you probably downloaded this thinkorswim study, awesome here are the details.
+If you are reading this you probably downloaded this thinkorswim script, awesome here are the details.
 
 How to Set it Up? --
 1. Open thinkorswim.
